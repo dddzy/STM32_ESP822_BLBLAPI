@@ -1,21 +1,21 @@
 
-Ó²¼þ½ÓÏß£º
+ç¡¬ä»¶æŽ¥çº¿ï¼š
 
-ESP8266 ´®¿ÚÊ¹ÓÃ´®¿Ú1 PA9  10
-PCÍ¨ÐÅ	´®¿ÚÊ¹ÓÃ´®¿Ú3 PB10 11 
+ESP8266 ä¸²å£ä½¿ç”¨ä¸²å£1 PA9  10
+PCé€šä¿¡	ä¸²å£ä½¿ç”¨ä¸²å£3 PB10 11 
 
 
-PC Ö¸Áî
-1£º¸üÐÂWiFi
+PC æŒ‡ä»¤
+1ï¼šæ›´æ–°WiFi
 ssid+ssid+:+password+;	
-Àý£ºwifiÃûtest ÃÜÂë123456789
+ä¾‹ï¼šwifiåpitest å¯†ç 123456789
 	ssidtest:123456789;
 
-2£º¸üÐÂBilibiliAPIÐÅÏ¢
+2ï¼šæ›´æ–°BilibiliAPIä¿¡æ¯
 
-UID+¸öÈËUID Àý: UID123456
-BV+BVºÅ     Àý£ºBV1234567 
+UID+ä¸ªäººUID ä¾‹: UID123456
+BV+BVå·     ä¾‹ï¼šBV1234567 
 
 
 
-(Ö¸Áî²»Çø·Ö´óÐ¡Ð´) Àý£ºUID123456Óëuid123456ÏàÍ¬
+(æŒ‡ä»¤ä¸åŒºåˆ†å¤§å°å†™) ä¾‹ï¼šUID123456ä¸Žuid123456ç›¸åŒ
