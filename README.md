@@ -1,7 +1,7 @@
 # STM32_ESP822_BLBLAPI
-#Readme
+# Readme
 
-##硬件接线：##
+## 硬件接线：
 
 ### ESP8266   串口使用串口1 PA9  10
 ### PC通信	串口使用串口3 PB10  11 
