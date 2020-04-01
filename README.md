@@ -12,7 +12,7 @@
 + ### 1更新WiFi  
 > ssid+"你的WiFi名"+:+password+"密码";    	
 > 例：wifi名pitest 密码123456789    
-> 	ssidpitest:123456789;  
+> 则发送指令为：ssidpitest:123456789;  
 + ### 2更新BilibiliAPI信息  
 > UID+个人UID 例: UID123456  
 > BV+BV号     例：BV1234567   
