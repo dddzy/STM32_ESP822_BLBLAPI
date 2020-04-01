@@ -6,14 +6,14 @@
 ### ESP8266   串口使用串口1 PA9  10
 ### PC通信	串口使用串口3 PB10  11 
 ### key1 	  PB0
-###长按进行更改WiFi设置，大约3s
+### 长按进行更改WiFi设置，大约3s
 
 ## PC 指令
-+ ###1更新WiFi
++ ### 1更新WiFi
 > ssid+ssid+:+password+;	
 例：wifi名pitest 密码123456789
 	ssidpitest:123456789;
-+ ###2更新BilibiliAPI信息
++ ### 2更新BilibiliAPI信息
 > UID+个人UID 例: UID123456
 BV+BV号     例：BV1234567 
 
