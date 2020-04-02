@@ -18,5 +18,8 @@
 > BV+BV号     例：BV1234567   
 
 ` (指令不区分大小写) 例：UID123456与uid123456相同 `  
+![哔哩哔哩](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png "Pandao editor.md")
 
 # 注意：PC指令必须加回车换行(/r/n 0D0A)，串口助手勾选增加回车  
+[![](https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1814863838,487964558&fm=26&gp=0.jpg)](https://www.bilibili.com/video/BV1Sg4y1b7rf "哔哩哔哩")
+
