@@ -21,5 +21,5 @@
 ![哔哩哔哩](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png "Pandao editor.md")
 
 # 注意：PC指令必须加回车换行(/r/n 0D0A)，串口助手勾选增加回车  
-[![](https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1814863838,487964558&fm=26&gp=0.jpg)](https://www.bilibili.com/video/BV1Sg4y1b7rf "哔哩哔哩")
+[![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1585807501073&di=efd94251c7fc15dd70f29d9edfa492d4&imgtype=0&src=http%3A%2F%2Fi0.hdslb.com%2Fbfs%2Farticle%2F8cafbabe0c6e61b476595fd31cd6b729a7bcd79e.png)](https://www.bilibili.com/video/BV1Sg4y1b7rf "哔哩哔哩")
 
