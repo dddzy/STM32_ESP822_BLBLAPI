@@ -10,7 +10,8 @@
 
 ## PC 指令  
 + ### 1更新WiFi  
-> ssid+"你的WiFi名"+:+password+"密码";    	
+> ssid+"你的WiFi名"+:+password+"密码"+;   
+
 > 例：wifi名pitest 密码123456789    
 > 则发送指令为：ssidpitest:123456789;  
 + ### 2更新BilibiliAPI信息  
